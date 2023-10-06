@@ -12,4 +12,5 @@ cin>>n;
      n/=10;    
   } 
   cout<<rev<<endl;
+  return 0;
 }
